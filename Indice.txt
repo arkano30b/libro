@@ -1,3 +1,5 @@
 Título: Mi libro
 Capitulo 1: Introducción a Git
 Capitulo 2: shdghaskghak dsjgh ajk
+Glosario. 
+
